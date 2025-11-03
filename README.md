@@ -1,6 +1,11 @@
 # 🗺 Open Source Contributions
 
+## rust-lang
+
+
 ### 1. rust <a href="https://github.com/rust-lang/rust"><img src="https://github.com/user-attachments/assets/2327075d-5755-49c5-b651-33a767d3c805" alt="rust" width="18" height="18"> 
+
+#### PR
 
 - **[#147845](https://github.com/rust-lang/rust/pull/147845)**: Add regression test for 134355
 - **[#147438](https://github.com/rust-lang/rust/pull/147438)**: Rename "non-inline module" to "file module" in proc macro diagnostics
@@ -15,3 +20,38 @@
 - **[#139607](https://github.com/rust-lang/rust/pull/139607)**: Add regression test for #127424
 - **[#138509](https://github.com/rust-lang/rust/pull/138509)**: Add test to ensure no index out of bounds panic (#135474)
 - **[#138105](https://github.com/rust-lang/rust/pull/138105)**: Fix broken link to Miri intrinsics in documentation
+
+#### Issue
+ 
+- **[#140235](https://github.com/rust-lang/rust/issues/140235)**: Compiler misinterprets cast and comparison as generic syntax
+- **[#137486](https://github.com/rust-lang/rust/issues/137486)**: fix suggestion for E0716 (temporary value dropped while borrowed)
+
+
+
+### 2. rust-clippy <a href="https://github.com/rust-lang/rust-clippy"><img src="https://github.com/user-attachments/assets/2327075d-5755-49c5-b651-33a767d3c805" alt="rust" width="18" height="18"> 
+
+#### PR
+
+- **[#15448](https://github.com/rust-lang/rust-clippy/pull/15448)**: Update CONTRIBUTING.md to use RustRover instead of IntelliJ Rust
+
+#### Issue
+
+- **[#15883](https://github.com/rust-lang/rust-clippy/issues/15883)**: `semicolon_if_nothing_returned` shows incorrect line number for method call with multi-line closure
+- **[#15463](https://github.com/rust-lang/rust-clippy/issues/15463)**: Consider renaming `cargo dev setup intellij` to `cargo dev setup rustrover`
+- **[#15406](https://github.com/rust-lang/rust-clippy/issues/15406)**: Update CONTRIBUTING.md to include RustRover instead of deprecated IntelliJ Rust
+
+
+
+### 3. book <a href="https://github.com/rust-lang/rust-clippy"><img src="https://github.com/user-attachments/assets/2327075d-5755-49c5-b651-33a767d3c805" alt="rust" width="18" height="18">
+
+#### PR
+
+- **[#4553](https://github.com/rust-lang/book/pull/4553)**: Fix incorrect link for chapter 16 reference
+
+
+
+### 4. git2-rs 
+
+#### PR
+
+- **[1155](https://github.com/rust-lang/git2-rs/pull/1155)**: fix: add a backtick
