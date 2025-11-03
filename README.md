@@ -26,7 +26,7 @@
 - **[#140235](https://github.com/rust-lang/rust/issues/140235)**: Compiler misinterprets cast and comparison as generic syntax
 - **[#137486](https://github.com/rust-lang/rust/issues/137486)**: fix suggestion for E0716 (temporary value dropped while borrowed)
 
-
+---
 
 ### 2. rust-clippy <a href="https://github.com/rust-lang/rust-clippy"><img src="https://github.com/user-attachments/assets/2327075d-5755-49c5-b651-33a767d3c805" alt="rust" width="18" height="18"> 
 
@@ -40,7 +40,7 @@
 - **[#15463](https://github.com/rust-lang/rust-clippy/issues/15463)**: Consider renaming `cargo dev setup intellij` to `cargo dev setup rustrover`
 - **[#15406](https://github.com/rust-lang/rust-clippy/issues/15406)**: Update CONTRIBUTING.md to include RustRover instead of deprecated IntelliJ Rust
 
-
+---
 
 ### 3. book <a href="https://github.com/rust-lang/rust-clippy"><img src="https://github.com/user-attachments/assets/2327075d-5755-49c5-b651-33a767d3c805" alt="rust" width="18" height="18">
 
@@ -48,10 +48,20 @@
 
 - **[#4553](https://github.com/rust-lang/book/pull/4553)**: Fix incorrect link for chapter 16 reference
 
-
+---
 
 ### 4. git2-rs 
 
 #### PR
 
 - **[1155](https://github.com/rust-lang/git2-rs/pull/1155)**: fix: add a backtick
+
+---
+
+<br>
+
+## python/cpython <a href="https://github.com/python/cpython"><img src="https://github.com/user-attachments/assets/d0982145-b2d8-42be-9067-dcf22be12287" alt="rust" width="18" height="18">
+
+#### PR
+
+- **[130349](https://github.com/python/cpython/pull/130349)**: Fix outdated reference link in collections module
