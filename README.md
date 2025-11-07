@@ -7,6 +7,7 @@
 
 #### PR
 
+- **[#148526](https://github.com/rust-lang/rust/pull/148526)**: Expand pow docs with special-case tests
 - **[#147845](https://github.com/rust-lang/rust/pull/147845)**: Add regression test for 134355
 - **[#147438](https://github.com/rust-lang/rust/pull/147438)**: Rename "non-inline module" to "file module" in proc macro diagnostics
 - **[#147395](https://github.com/rust-lang/rust/pull/147395)**: Improve diagnostics: update note and add help message
