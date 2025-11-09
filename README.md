@@ -73,4 +73,4 @@
 
 #### PR
 
-- **[130349](https://github.com/python/cpython/pull/130349)**: Fix outdated reference link in collections module
+- **[#130349](https://github.com/python/cpython/pull/130349)**: Fix outdated reference link in collections module
