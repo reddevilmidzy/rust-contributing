@@ -55,7 +55,7 @@
 
 #### PR
 
-- **[1155](https://github.com/rust-lang/git2-rs/pull/1155)**: fix: add a backtick
+- **[#1155](https://github.com/rust-lang/git2-rs/pull/1155)**: fix: add a backtick
 
 ---
 
@@ -63,7 +63,7 @@
 
 #### PR
 
-- **[1738](https://github.com/rust-lang/blog.rust-lang.org/pull/1738)**: Fix link in `renaming-the-default-branch-of-rust-lang-rust.md`
+- **[#1738](https://github.com/rust-lang/blog.rust-lang.org/pull/1738)**: Fix link in `renaming-the-default-branch-of-rust-lang-rust.md`
 
 ---
 
