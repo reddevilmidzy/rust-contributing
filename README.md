@@ -59,6 +59,14 @@
 
 ---
 
+### 5. blog.rust-lang.org
+
+#### PR
+
+- **[1738](https://github.com/rust-lang/blog.rust-lang.org/pull/1738)**: Fix link in `renaming-the-default-branch-of-rust-lang-rust.md`
+
+---
+
 <br>
 
 ## python/cpython <a href="https://github.com/python/cpython"><img src="https://github.com/user-attachments/assets/d0982145-b2d8-42be-9067-dcf22be12287" alt="rust" width="18" height="18">
