@@ -1,11 +1,8 @@
-# 🗺 Open Source Contributions
+# 🗺🦀 rust-lang contributions
 
-## rust-lang
+## 1. rust
 
-
-### 1. rust <a href="https://github.com/rust-lang/rust"><img src="https://github.com/user-attachments/assets/2327075d-5755-49c5-b651-33a767d3c805" alt="rust" width="18" height="18"> 
-
-#### PR
+### PR
 
 - **[#148785](https://github.com/rust-lang/rust/pull/148785)**: Replace master branch references with main
 - **[#148775](https://github.com/rust-lang/rust/pull/148775)**: Fix a typo in the documentation for the strict_shr function
@@ -24,32 +21,32 @@
 - **[#138509](https://github.com/rust-lang/rust/pull/138509)**: Add test to ensure no index out of bounds panic (#135474)
 - **[#138105](https://github.com/rust-lang/rust/pull/138105)**: Fix broken link to Miri intrinsics in documentation
 
-#### Issue
+### Issue
  
 - **[#140235](https://github.com/rust-lang/rust/issues/140235)**: Compiler misinterprets cast and comparison as generic syntax
 - **[#137486](https://github.com/rust-lang/rust/issues/137486)**: fix suggestion for E0716 (temporary value dropped while borrowed)
 
 
-#### Participate in issue
+### Participate in issue
 
 - **[#149055](https://github.com/rust-lang/rust/issues/149055)**: panic at compiler/rustc_metadata/src/rmeta/def_path_hash_map.rs:18:54
 - **[#148809](https://github.com/rust-lang/rust/issues/148809)**: ICE: compiler paniced and panicked while processing panic, program terminated with signal: SIGSEGV
 
 
-#### Code review
+### Code review
 
 - **[#149144](https://github.com/rust-lang/rust/pull/149144)**: Reject async fn in const impl during AST validation
 - **[#149045](https://github.com/rust-lang/rust/pull/149045)**: implement PartialEq<Vec<U>> for [T; N] and &[T; N]
 
 ---
 
-### 2. rust-clippy <a href="https://github.com/rust-lang/rust-clippy"><img src="https://github.com/user-attachments/assets/2327075d-5755-49c5-b651-33a767d3c805" alt="rust" width="18" height="18"> 
+## rust-clippy
 
-#### PR
+### PR
 
 - **[#15448](https://github.com/rust-lang/rust-clippy/pull/15448)**: Update CONTRIBUTING.md to use RustRover instead of IntelliJ Rust
 
-#### Issue
+### Issue
 
 - **[#15883](https://github.com/rust-lang/rust-clippy/issues/15883)**: `semicolon_if_nothing_returned` shows incorrect line number for method call with multi-line closure
 - **[#15463](https://github.com/rust-lang/rust-clippy/issues/15463)**: Consider renaming `cargo dev setup intellij` to `cargo dev setup rustrover`
@@ -57,25 +54,25 @@
 
 ---
 
-### 3. book <a href="https://github.com/rust-lang/rust-clippy"><img src="https://github.com/user-attachments/assets/2327075d-5755-49c5-b651-33a767d3c805" alt="rust" width="18" height="18">
+## book
 
-#### PR
+### PR
 
 - **[#4553](https://github.com/rust-lang/book/pull/4553)**: Fix incorrect link for chapter 16 reference
 
 ---
 
-### 4. git2-rs 
+## git2-rs 
 
-#### PR
+### PR
 
 - **[#1155](https://github.com/rust-lang/git2-rs/pull/1155)**: fix: add a backtick
 
 ---
 
-### 5. blog.rust-lang.org
+## blog.rust-lang.org
 
-#### PR
+### PR
 
 - **[#1738](https://github.com/rust-lang/blog.rust-lang.org/pull/1738)**: Fix link in `renaming-the-default-branch-of-rust-lang-rust.md`
 
