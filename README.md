@@ -1,6 +1,6 @@
 # 🗺🦀 rust-lang contributions
 
-## 1. rust
+## rust
 
 ### PR
 
