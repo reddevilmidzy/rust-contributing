@@ -28,7 +28,7 @@
 
 ### Participate in issue
 
-- **[#149155](https://github.com/rust-lang/rust/issues/149155): ICE: Option::unwrap() on a None value
+- **[#149155](https://github.com/rust-lang/rust/issues/149155)**: ICE: Option::unwrap() on a None value
 - **[#149055](https://github.com/rust-lang/rust/issues/149055)**: panic at compiler/rustc_metadata/src/rmeta/def_path_hash_map.rs:18:54
 - **[#148581](https://github.com/rust-lang/rust/issues/148581)**: thread 'rustc' panicked at compiler/rustc_metadata/src/rmeta/def_path_hash_map.rs:23:54: called `Option::unwrap()` on a None value
 - **[#148809](https://github.com/rust-lang/rust/issues/148809)**: ICE: compiler paniced and panicked while processing panic, program terminated with signal: SIGSEGV
