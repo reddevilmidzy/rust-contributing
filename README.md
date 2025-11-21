@@ -22,6 +22,7 @@
 - **[#138105](https://github.com/rust-lang/rust/pull/138105)**: Fix broken link to Miri intrinsics in documentation
 
 ### Issue
+- **[#149181](https://github.com/rust-lang/rust/issues/149181)**: E0038 is emitted 2 or 3 times for the same line
 - **[#140235](https://github.com/rust-lang/rust/issues/140235)**: Compiler misinterprets cast and comparison as generic syntax
 - **[#137486](https://github.com/rust-lang/rust/issues/137486)**: fix suggestion for E0716 (temporary value dropped while borrowed)
 
