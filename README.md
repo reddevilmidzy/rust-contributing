@@ -3,6 +3,7 @@
 ## rust
 
 ### PR
+> Create Pull Requests
 
 - **[#149179](https://github.com/rust-lang/rust/pull/149179)**: Add regression test for 128705
 - **[#149101](https://github.com/rust-lang/rust/pull/149101)**: Improve mutable-binding suggestion to include name
@@ -25,13 +26,15 @@
 - **[#138105](https://github.com/rust-lang/rust/pull/138105)**: Fix broken link to Miri intrinsics in documentation
 
 ### Issue
+> Create Issues
+
 - **[#149181](https://github.com/rust-lang/rust/issues/149181)**: E0038 is emitted 2 or 3 times for the same line
 - **[#140235](https://github.com/rust-lang/rust/issues/140235)**: Compiler misinterprets cast and comparison as generic syntax
 - **[#137486](https://github.com/rust-lang/rust/issues/137486)**: fix suggestion for E0716 (temporary value dropped while borrowed)
 
-
-### Participate in issue
-
+### Participated in issue
+> Add some snippet or Edit label ...
+ 
 - **[#149155](https://github.com/rust-lang/rust/issues/149155)**: ICE: Option::unwrap() on a None value
 - **[#149055](https://github.com/rust-lang/rust/issues/149055)**: panic at compiler/rustc_metadata/src/rmeta/def_path_hash_map.rs:18:54
 - **[#148581](https://github.com/rust-lang/rust/issues/148581)**: thread 'rustc' panicked at compiler/rustc_metadata/src/rmeta/def_path_hash_map.rs:23:54: called `Option::unwrap()` on a None value
@@ -41,6 +44,7 @@
 - **[#128705](https://github.com/rust-lang/rust/issues/128705)**: E0038 emmitted twice
 
 ### Code review
+> Add comments
 
 - **[#149144](https://github.com/rust-lang/rust/pull/149144)**: Reject async fn in const impl during AST validation
 - **[#149045](https://github.com/rust-lang/rust/pull/149045)**: implement PartialEq<Vec<U>> for [T; N] and &[T; N]
