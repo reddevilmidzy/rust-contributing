@@ -40,6 +40,7 @@
 - **[#148581](https://github.com/rust-lang/rust/issues/148581)**: thread 'rustc' panicked at compiler/rustc_metadata/src/rmeta/def_path_hash_map.rs:23:54: called `Option::unwrap()` on a None value
 - **[#148809](https://github.com/rust-lang/rust/issues/148809)**: ICE: compiler paniced and panicked while processing panic, program terminated with signal: SIGSEGV
 - **[#142482](https://github.com/rust-lang/rust/issues/142482)**: `this method is equivalent to` section of `Vec::extract_if` seems incorrect
+- **[#141400](https://github.com/rust-lang/rust/issues/141400)**: ICE: layout_of: unexpected type
 - **[#137588](https://github.com/rust-lang/rust/issues/137588)**: ICE: index out of bounds: the len is 0 but the index is `18446744073709551615`
 - **[#128705](https://github.com/rust-lang/rust/issues/128705)**: E0038 emmitted twice
 
