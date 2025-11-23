@@ -4,6 +4,9 @@
 
 ### PR
 
+- **[#149179](https://github.com/rust-lang/rust/pull/149179)**: Add regression test for 128705
+- **[#149101](https://github.com/rust-lang/rust/pull/149101)**: Improve mutable-binding suggestion to include name
+- **[#149027](https://github.com/rust-lang/rust/pull/149027)**: Implement method signature suggestion for trait mismatches error
 - **[#148785](https://github.com/rust-lang/rust/pull/148785)**: Replace master branch references with main
 - **[#148775](https://github.com/rust-lang/rust/pull/148775)**: Fix a typo in the documentation for the strict_shr function
 - **[#148526](https://github.com/rust-lang/rust/pull/148526)**: Expand pow docs with special-case tests
