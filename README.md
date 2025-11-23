@@ -33,7 +33,7 @@
 - **[#137486](https://github.com/rust-lang/rust/issues/137486)**: fix suggestion for E0716 (temporary value dropped while borrowed)
 
 ### Participated in issue
-> Add some snippet or Edit label ...
+> Add some code snippet, classify label and find duplicated issue
  
 - **[#149155](https://github.com/rust-lang/rust/issues/149155)**: ICE: Option::unwrap() on a None value
 - **[#149055](https://github.com/rust-lang/rust/issues/149055)**: panic at compiler/rustc_metadata/src/rmeta/def_path_hash_map.rs:18:54
