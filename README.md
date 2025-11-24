@@ -1,6 +1,8 @@
-# 🗺🦀 rust-lang contributions
+# 🗺🦀 rust contributing
+> Let's contribute to [rust-lang](https://github.com/rust-lang)
 
-## rust
+
+## [rust](https://github.com/rust-lang/rust)
 
 ### PR
 > Create Pull Requests
@@ -54,7 +56,7 @@
 
 ---
 
-## rust-clippy
+## [rust-clippy](https://github.com/rust-lang/rust-clippy)
 
 ### PR
 
@@ -68,7 +70,7 @@
 
 ---
 
-## book
+## [book](https://github.com/rust-lang/book)
 
 ### PR
 
@@ -76,7 +78,7 @@
 
 ---
 
-## git2-rs 
+## [git2-rs](https://github.com/rust-lang/git2-rs)
 
 ### PR
 
@@ -84,7 +86,7 @@
 
 ---
 
-## blog.rust-lang.org
+## [blog.rust-lang.org](https://github.com/rust-lang/blog.rust-lang.org)
 
 ### PR
 
