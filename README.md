@@ -94,3 +94,9 @@
 - **[#1738](https://github.com/rust-lang/blog.rust-lang.org/pull/1738)**: Fix link in `renaming-the-default-branch-of-rust-lang-rust.md`
 
 ---
+
+## [rustc-dev-guide](https://github.com/rust-lang/rustc-dev-guide)
+
+### PR
+
+- **[#2654](https://github.com/rust-lang/rustc-dev-guide/pull/2654)**: Fix link to README in ui test documentation
