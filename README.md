@@ -51,6 +51,7 @@
 ### Code review
 > Add comments
 
+- **[#149262](https://github.com/rust-lang/rust/pull/149262)**: build: update checkout action to v6
 - **[#149144](https://github.com/rust-lang/rust/pull/149144)**: Reject async fn in const impl during AST validation
 - **[#149045](https://github.com/rust-lang/rust/pull/149045)**: implement PartialEq<Vec<U>> for [T; N] and &[T; N]
 
