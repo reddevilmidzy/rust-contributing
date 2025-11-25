@@ -76,6 +76,7 @@
 
 ### PR
 
+- **[#4583](https://github.com/rust-lang/book/pull/4583)**: Clarify that feature flags can't be used by default on stable/beta
 - **[#4582](https://github.com/rust-lang/book/pull/4582)**: ch17-06: Fix incorrect link for chapter 16 reference
 
 ---
