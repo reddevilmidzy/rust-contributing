@@ -11,3 +11,7 @@
 ## Filtering Issue/PRs
 
 * [mentor,ice,compiler](https://github.com/rust-lang/rust/issues?q=is%3Aissue%20state%3Aopen%20label%3AE-mentor%2CT-compiler%2CI-ICE)
+
+## study
+
+* https://doc.rust-lang.org/nightly/nightly-rustc
