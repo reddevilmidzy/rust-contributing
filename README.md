@@ -38,7 +38,8 @@
 
 ### Participated in issue
 > Add some code snippet, classify label and find duplicated issue
- 
+
+- **[#149309](https://github.com/rust-lang/rust/issues/149309)**: ICE while compiling diesel
 - **[#149155](https://github.com/rust-lang/rust/issues/149155)**: ICE: Option::unwrap() on a None value
 - **[#149055](https://github.com/rust-lang/rust/issues/149055)**: panic at compiler/rustc_metadata/src/rmeta/def_path_hash_map.rs:18:54
 - **[#148581](https://github.com/rust-lang/rust/issues/148581)**: thread 'rustc' panicked at compiler/rustc_metadata/src/rmeta/def_path_hash_map.rs:23:54: called `Option::unwrap()` on a None value
