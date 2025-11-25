@@ -76,7 +76,7 @@
 
 ### PR
 
-- **[#4553](https://github.com/rust-lang/book/pull/4553)**: Fix incorrect link for chapter 16 reference
+- **[#4582](https://github.com/rust-lang/book/pull/4582)**: ch17-06: Fix incorrect link for chapter 16 reference
 
 ---
 
@@ -100,4 +100,5 @@
 
 ### PR
 
+- **[#2655](https://github.com/rust-lang/rustc-dev-guide/pull/2655)**: Update contributing.md with Rust Book reference
 - **[#2654](https://github.com/rust-lang/rustc-dev-guide/pull/2654)**: Fix link to README in ui test documentation
