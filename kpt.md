@@ -10,8 +10,10 @@
 ## Problem
 
 * [ ] english skill
+* [ ] rustc knowledge
 
 ## Try
 
 * [ ] attned rust compiler team meeting
 * [ ] participate RFC
+* [ ] study hard
