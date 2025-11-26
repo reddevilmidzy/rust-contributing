@@ -8,5 +8,7 @@
 `rust-lang`의 멤버가 되는 길이 얼마나 멀고 험할지는 모르겠지만 힘내자.  
 
 원피스에서 로가 칠무해가 되기 위해 록키포트 사건에서 100명의 해적의 심장을 해군에 바쳤다고 했었다. 그렇다면 나는 rust-lang 멤버가 되기위해 100개의 pr을 작성해보자.
+rust-lang/rust에 기여한 횟수는 [thanks.rust-lang.org](https://thanks.rust-lang.org/) 사이트에서 카운트가 가능하다. ([하이라이트](https://thanks.rust-lang.org/rust/all-time/#:~:text=reddevilmidzy))
+
 
 기여를 많이 하는것도 좋지만 Rust 언어의 학습도 멈추지 말자. 기여하다보면 자연스럽게 늘겠지만 착각하지 말고, 자만하지 말자.
