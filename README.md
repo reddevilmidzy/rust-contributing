@@ -7,6 +7,7 @@
 ### PR
 > Create Pull Requests
 
+- **[#149353](https://github.com/rust-lang/rust/pull/149353)**: Tidying up UI tests [3/N]
 - **[#149321](https://github.com/rust-lang/rust/pull/149321)**: Fix ICE when include_str! reads binary files
 - **[#149258](https://github.com/rust-lang/rust/pull/149258)**: Fix None handling for simplify_type in for_each_relevant_impl 
 - **[#149255](https://github.com/rust-lang/rust/pull/149255)**: Use `let...else` consistently in user-facing diagnostics
