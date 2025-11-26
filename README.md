@@ -40,6 +40,7 @@
 ### Participated in issue
 > Add some code snippet, classify label and find duplicated issue
 
+- **[#149346](https://github.com/rust-lang/rust/issues/149346)**: help for E0423 shows unhelpful expanded macro
 - **[#149324](https://github.com/rust-lang/rust/issues/149324)**: rustdoc search says “Consider searching for "null" instead.”
 - **[#149309](https://github.com/rust-lang/rust/issues/149309)**: ICE while compiling diesel
 - **[#149155](https://github.com/rust-lang/rust/issues/149155)**: ICE: Option::unwrap() on a None value
