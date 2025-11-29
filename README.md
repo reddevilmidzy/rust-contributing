@@ -36,6 +36,7 @@
 ### Issue
 > Create Issues
 
+- **[#149446](https://github.com/rust-lang/rust/issues/149446)**: No other errors are reported when error in for-loop &[T]
 - **[#149181](https://github.com/rust-lang/rust/issues/149181)**: E0038 is emitted 2 or 3 times for the same line
 - **[#140235](https://github.com/rust-lang/rust/issues/140235)**: Compiler misinterprets cast and comparison as generic syntax
 - **[#137486](https://github.com/rust-lang/rust/issues/137486)**: fix suggestion for E0716 (temporary value dropped while borrowed)
