@@ -14,6 +14,6 @@
 
 ## Try
 
-* [ ] attned rust compiler team meeting
+* [ ] attened rust compiler team meeting
 * [ ] participate RFC
 * [ ] study hard
