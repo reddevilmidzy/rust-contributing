@@ -7,6 +7,7 @@
 ### PR
 > Create Pull Requests
 
+- **[#149498](https://github.com/rust-lang/rust/pull/149498)**: Tidying up `tests/ui/issues` tests [1/N]
 - **[#149479](https://github.com/rust-lang/rust/pull/149479)**: Fix indent in E0591.md
 - **[#149473](https://github.com/rust-lang/rust/pull/149473)**: Tidying up UI tests [7/N]
 - **[#149443](https://github.com/rust-lang/rust/pull/149443)**: Tidying up UI tests [6/N]
