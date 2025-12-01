@@ -63,6 +63,7 @@
 ### Code review
 > Add comments
 
+- **[#149496](https://github.com/rust-lang/rust/pull/149496)**: Fix #148889: Add label rib when visiting delegation body
 - **[#149272](https://github.com/rust-lang/rust/pull/149272)**: Fix vec iter zst alignment 148682
 - **[#149262](https://github.com/rust-lang/rust/pull/149262)**: build: update checkout action to v6
 - **[#149144](https://github.com/rust-lang/rust/pull/149144)**: Reject async fn in const impl during AST validation
