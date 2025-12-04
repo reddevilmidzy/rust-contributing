@@ -11,6 +11,7 @@
 ### Let's study
 
 * https://doc.rust-lang.org/nightly/nightly-rustc
+* https://doc.rust-lang.org/unstable-book/
 * https://rustc-dev-guide.rust-lang.org/
 * https://blog.rust-lang.org/
 * https://blog.rust-lang.org/inside-rust/
