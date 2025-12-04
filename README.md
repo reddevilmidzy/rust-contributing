@@ -7,6 +7,8 @@
 ### PR
 > Create Pull Requests
 
+- **[#149544](https://github.com/rust-lang/rust/pull/149544)**: Only apply `no_mangle_const_items`'s suggestion to plain const items
+- **[#149595](https://github.com/rust-lang/rust/pull/149595)**: Tidying up `tests/ui/issues` tests [2/N]
 - **[#149498](https://github.com/rust-lang/rust/pull/149498)**: Tidying up `tests/ui/issues` tests [1/N]
 - **[#149479](https://github.com/rust-lang/rust/pull/149479)**: Fix indent in E0591.md
 - **[#149473](https://github.com/rust-lang/rust/pull/149473)**: Tidying up UI tests [7/N]
