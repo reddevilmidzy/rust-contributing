@@ -7,6 +7,7 @@
 ### PR
 > Create Pull Requests
 
+- **[#149676](https://github.com/rust-lang/rust/pull/149676)**: Tidying up tests/ui/issues tests [3/N]
 - **[#149647](https://github.com/rust-lang/rust/pull/149647)**: Add regression test for 141845
 - **[#149544](https://github.com/rust-lang/rust/pull/149544)**: Only apply `no_mangle_const_items`'s suggestion to plain const items
 - **[#149595](https://github.com/rust-lang/rust/pull/149595)**: Tidying up `tests/ui/issues` tests [2/N]
@@ -51,6 +52,7 @@
 ### Participated in issue
 > Add some code snippet, classify label and find duplicated issue
 
+- **[#149678](https://github.com/rust-lang/rust/issues/149678)**: panicked when build makepad framework 
 - **[#149346](https://github.com/rust-lang/rust/issues/149346)**: help for E0423 shows unhelpful expanded macro
 - **[#149324](https://github.com/rust-lang/rust/issues/149324)**: rustdoc search says “Consider searching for "null" instead.”
 - **[#149309](https://github.com/rust-lang/rust/issues/149309)**: ICE while compiling diesel
