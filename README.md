@@ -67,6 +67,7 @@
 ### Code review
 > Add comments
 
+- **[#149667](https://github.com/rust-lang/rust/pull/149667)**: Fix ICE by rejecting const blocks in patterns during AST lowering (closes #148138)
 - **[#149496](https://github.com/rust-lang/rust/pull/149496)**: Fix #148889: Add label rib when visiting delegation body
 - **[#149272](https://github.com/rust-lang/rust/pull/149272)**: Fix vec iter zst alignment 148682
 - **[#149262](https://github.com/rust-lang/rust/pull/149262)**: build: update checkout action to v6
