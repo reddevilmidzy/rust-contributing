@@ -7,6 +7,7 @@
 ### PR
 > Create Pull Requests
 
+- **[#149647](https://github.com/rust-lang/rust/pull/149647)**: Add regression test for 141845
 - **[#149544](https://github.com/rust-lang/rust/pull/149544)**: Only apply `no_mangle_const_items`'s suggestion to plain const items
 - **[#149595](https://github.com/rust-lang/rust/pull/149595)**: Tidying up `tests/ui/issues` tests [2/N]
 - **[#149498](https://github.com/rust-lang/rust/pull/149498)**: Tidying up `tests/ui/issues` tests [1/N]
@@ -117,5 +118,6 @@
 
 ### PR
 
+- **[#2673](https://github.com/rust-lang/rustc-dev-guide/pull/2673)**: Add Zed to quickstart
 - **[#2655](https://github.com/rust-lang/rustc-dev-guide/pull/2655)**: Update contributing.md with Rust Book reference
 - **[#2654](https://github.com/rust-lang/rustc-dev-guide/pull/2654)**: Fix link to README in ui test documentation
