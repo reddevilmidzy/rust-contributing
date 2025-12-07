@@ -7,6 +7,7 @@
 ### PR
 > Create Pull Requests
 
+- **[#149714](https://github.com/rust-lang/rust/pull/149714)**: Check associated type where-clauses for lifetimes
 - **[#149676](https://github.com/rust-lang/rust/pull/149676)**: Tidying up tests/ui/issues tests [3/N]
 - **[#149647](https://github.com/rust-lang/rust/pull/149647)**: Add regression test for 141845
 - **[#149544](https://github.com/rust-lang/rust/pull/149544)**: Only apply `no_mangle_const_items`'s suggestion to plain const items
