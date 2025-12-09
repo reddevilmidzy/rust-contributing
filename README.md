@@ -46,6 +46,7 @@
 ### Issue
 > Create Issues
 
+- **[#149809](https://github.com/rust-lang/rust/issues/149809)**: ICE `unelided lifetime in signature`
 - **[#149446](https://github.com/rust-lang/rust/issues/149446)**: No other errors are reported when error in for-loop &[T]
 - **[#149181](https://github.com/rust-lang/rust/issues/149181)**: E0038 is emitted 2 or 3 times for the same line
 - **[#140235](https://github.com/rust-lang/rust/issues/140235)**: Compiler misinterprets cast and comparison as generic syntax
@@ -71,6 +72,7 @@
 ### Code review
 > Add comments
 
+- **[#149730](https://github.com/rust-lang/rust/pull/149730)**: lint: emit proper diagnostic for unsafe binders in improper_ctypes instead of ICE
 - **[#149667](https://github.com/rust-lang/rust/pull/149667)**: Fix ICE by rejecting const blocks in patterns during AST lowering (closes #148138)
 - **[#149496](https://github.com/rust-lang/rust/pull/149496)**: Fix #148889: Add label rib when visiting delegation body
 - **[#149272](https://github.com/rust-lang/rust/pull/149272)**: Fix vec iter zst alignment 148682
