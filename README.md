@@ -134,6 +134,11 @@
 - **[#2655](https://github.com/rust-lang/rustc-dev-guide/pull/2655)**: Update contributing.md with Rust Book reference
 - **[#2654](https://github.com/rust-lang/rustc-dev-guide/pull/2654)**: Fix link to README in ui test documentation
 
+### Participated in issue
+
+- **[#2650](https://github.com/rust-lang/rustc-dev-guide/issues/2650)**:Recommended issue link uses non-existent labels
+- **[#359](https://github.com/rust-lang/rustc-dev-guide/issues/359)**: Transcribe the Compiler Lecture Rust analyzer guide
+
 ---
 
 ## [.github](https://github.com/rust-lang/.github)
