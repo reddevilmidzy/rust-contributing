@@ -127,6 +127,7 @@
 
 ### PR
 
+- **[#2693](https://github.com/rust-lang/rustc-dev-guide/pull/2693)**: Updated titles and links for two references in the bibliography
 - **[#2686](https://github.com/rust-lang/rustc-dev-guide/pull/2686)**: Add link to needs test issues in getting-started.md
 - **[#2678](https://github.com/rust-lang/rustc-dev-guide/pull/2678)**: Fix broken link for 'Uniqueness and Reference Immutability'
 - **[#2673](https://github.com/rust-lang/rustc-dev-guide/pull/2673)**: Add Zed to quickstart
