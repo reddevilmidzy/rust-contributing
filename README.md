@@ -7,7 +7,8 @@
 ### PR
 > Create Pull Requests
 
-- **[#149814](https://github.com/rust-lang/rust/pull/149814)**: 
+- **[#149922](https://github.com/rust-lang/rust/pull/149922)**: Tidying up tests/ui/issues 14 tests [5/N]
+- **[#149814](https://github.com/rust-lang/rust/pull/149814)**: mgca
 - **[#149767](https://github.com/rust-lang/rust/pull/149767)**: Tidying up tests/ui/issues 33 tests [4/N]
 - **[#149714](https://github.com/rust-lang/rust/pull/149714)**: Check both where-clauses of ty aliases & assoc tys for late-bound vars in the post-expansion feature gater
 - **[#149676](https://github.com/rust-lang/rust/pull/149676)**: Tidying up tests/ui/issues tests [3/N]
@@ -126,6 +127,7 @@
 
 ### PR
 
+- **[#2686](https://github.com/rust-lang/rustc-dev-guide/pull/2686)**: Add link to needs test issues in getting-started.md
 - **[#2678](https://github.com/rust-lang/rustc-dev-guide/pull/2678)**: Fix broken link for 'Uniqueness and Reference Immutability'
 - **[#2673](https://github.com/rust-lang/rustc-dev-guide/pull/2673)**: Add Zed to quickstart
 - **[#2655](https://github.com/rust-lang/rustc-dev-guide/pull/2655)**: Update contributing.md with Rust Book reference
