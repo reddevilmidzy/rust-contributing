@@ -85,6 +85,29 @@
 
 ---
 
+## [rustc-dev-guide](https://github.com/rust-lang/rustc-dev-guide)
+
+### PR
+
+- **[#2695](https://github.com/rust-lang/rustc-dev-guide/pull/2695)**: Add rust-analyzer book link to the guide
+- **[#2693](https://github.com/rust-lang/rustc-dev-guide/pull/2693)**: Updated titles and links for two references in the bibliography
+- **[#2686](https://github.com/rust-lang/rustc-dev-guide/pull/2686)**: Add link to needs test issues in getting-started.md
+- **[#2678](https://github.com/rust-lang/rustc-dev-guide/pull/2678)**: Fix broken link for 'Uniqueness and Reference Immutability'
+- **[#2673](https://github.com/rust-lang/rustc-dev-guide/pull/2673)**: Add Zed to quickstart
+- **[#2655](https://github.com/rust-lang/rustc-dev-guide/pull/2655)**: Update contributing.md with Rust Book reference
+- **[#2654](https://github.com/rust-lang/rustc-dev-guide/pull/2654)**: Fix link to README in ui test documentation
+
+### Issue
+
+- **[#2698](https://github.com/rust-lang/rustc-dev-guide/issues/2698)**: Replace MetadataDecodable macro
+
+### Participated in issue
+
+- **[#2650](https://github.com/rust-lang/rustc-dev-guide/issues/2650)**:Recommended issue link uses non-existent labels
+- **[#359](https://github.com/rust-lang/rustc-dev-guide/issues/359)**: Transcribe the Compiler Lecture Rust analyzer guide
+
+---
+
 ## [rust-clippy](https://github.com/rust-lang/rust-clippy)
 
 ### PR
@@ -121,29 +144,6 @@
 ### PR
 
 - **[#1738](https://github.com/rust-lang/blog.rust-lang.org/pull/1738)**: Fix link in `renaming-the-default-branch-of-rust-lang-rust.md`
-
----
-
-## [rustc-dev-guide](https://github.com/rust-lang/rustc-dev-guide)
-
-### PR
-
-- **[#2695](https://github.com/rust-lang/rustc-dev-guide/pull/2695)**: Add rust-analyzer book link to the guide
-- **[#2693](https://github.com/rust-lang/rustc-dev-guide/pull/2693)**: Updated titles and links for two references in the bibliography
-- **[#2686](https://github.com/rust-lang/rustc-dev-guide/pull/2686)**: Add link to needs test issues in getting-started.md
-- **[#2678](https://github.com/rust-lang/rustc-dev-guide/pull/2678)**: Fix broken link for 'Uniqueness and Reference Immutability'
-- **[#2673](https://github.com/rust-lang/rustc-dev-guide/pull/2673)**: Add Zed to quickstart
-- **[#2655](https://github.com/rust-lang/rustc-dev-guide/pull/2655)**: Update contributing.md with Rust Book reference
-- **[#2654](https://github.com/rust-lang/rustc-dev-guide/pull/2654)**: Fix link to README in ui test documentation
-
-### Issue
-
-- **[#2698](https://github.com/rust-lang/rustc-dev-guide/issues/2698)**: Replace MetadataDecodable macro
-
-### Participated in issue
-
-- **[#2650](https://github.com/rust-lang/rustc-dev-guide/issues/2650)**:Recommended issue link uses non-existent labels
-- **[#359](https://github.com/rust-lang/rustc-dev-guide/issues/359)**: Transcribe the Compiler Lecture Rust analyzer guide
 
 ---
 
