@@ -7,6 +7,7 @@
 ### PR
 > Create Pull Requests
 
+- **[#150122](https://github.com/rust-lang/rust/pull/150122)**: Refactor function names of `rustc_ast_lowering`
 - **[#149922](https://github.com/rust-lang/rust/pull/149922)**: Tidying up tests/ui/issues 14 tests [5/N]
 - **[#149814](https://github.com/rust-lang/rust/pull/149814)**: mgca
 - **[#149767](https://github.com/rust-lang/rust/pull/149767)**: Tidying up tests/ui/issues 33 tests [4/N]
@@ -89,6 +90,7 @@
 
 ### PR
 
+- **[#2704](https://github.com/rust-lang/rustc-dev-guide/pull/2704)**: Clarify serialization macros documentation
 - **[#2695](https://github.com/rust-lang/rustc-dev-guide/pull/2695)**: Add rust-analyzer book link to the guide
 - **[#2693](https://github.com/rust-lang/rustc-dev-guide/pull/2693)**: Updated titles and links for two references in the bibliography
 - **[#2686](https://github.com/rust-lang/rustc-dev-guide/pull/2686)**: Add link to needs test issues in getting-started.md
