@@ -72,6 +72,7 @@
 - **[#137588](https://github.com/rust-lang/rust/issues/137588)**: ICE: index out of bounds: the len is 0 but the index is `18446744073709551615`
 - **[#128705](https://github.com/rust-lang/rust/issues/128705)**: E0038 emmitted twice
 - **[#118778](https://github.com/rust-lang/rust/issues/118778)**: ICE: `expected type differs from actual type` u16 / u32
+- **[#113693](https://github.com/rust-lang/rust/issues/113693)**: Standardize what the `'a` thingies are called in compiler errors 
 
 ### Code review
 > Add comments
