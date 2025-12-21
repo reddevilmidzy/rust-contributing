@@ -7,6 +7,8 @@
 ### PR
 > Create Pull Requests
 
+- **[#150216](https://github.com/rust-lang/rust/pull/150216)**: Tidying up tests/ui/issues 15 tests [6/N]
+- **[#150200](https://github.com/rust-lang/rust/pull/150200)**: Add title field to ice.md issue template
 - **[#150122](https://github.com/rust-lang/rust/pull/150122)**: Refactor function names of `rustc_ast_lowering`
 - **[#149922](https://github.com/rust-lang/rust/pull/149922)**: Tidying up tests/ui/issues 14 tests [5/N]
 - **[#149814](https://github.com/rust-lang/rust/pull/149814)**: mgca
@@ -64,6 +66,7 @@
 - **[#149324](https://github.com/rust-lang/rust/issues/149324)**: rustdoc search says “Consider searching for "null" instead.”
 - **[#149309](https://github.com/rust-lang/rust/issues/149309)**: ICE while compiling diesel
 - **[#149155](https://github.com/rust-lang/rust/issues/149155)**: ICE: Option::unwrap() on a None value
+- **[#149066](https://github.com/rust-lang/rust/issues/149066)**: ICE couldn't normalize struct field [u8; C] when checking Copy implementation
 - **[#149055](https://github.com/rust-lang/rust/issues/149055)**: panic at compiler/rustc_metadata/src/rmeta/def_path_hash_map.rs:18:54
 - **[#148581](https://github.com/rust-lang/rust/issues/148581)**: thread 'rustc' panicked at compiler/rustc_metadata/src/rmeta/def_path_hash_map.rs:23:54: called `Option::unwrap()` on a None value
 - **[#148809](https://github.com/rust-lang/rust/issues/148809)**: ICE: compiler paniced and panicked while processing panic, program terminated with signal: SIGSEGV
