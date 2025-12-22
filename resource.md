@@ -19,9 +19,14 @@
 * https://doc.rust-lang.org/unstable-book/
 * https://blog.rust-lang.org/
 * https://blog.rust-lang.org/inside-rust/
+* https://hackmd.io/@rust-compiler-team
 
 ### Finding contribute
 
 * [ice,compiler](https://github.com/rust-lang/rust/issues?q=is%3Aissue%20state%3Aopen%20label%3AT-compiler%2CI-ICE)
 * [inactive](https://github.com/rust-lang/rust/pulls?q=is%3Apr+label%3AS-inactive+is%3Aclosed)
 * [FIXMEs in the rustc](https://oli-obk.github.io/fixmeh/)
+
+### etc
+
+* [compiler-team-reorg](https://blog.rust-lang.org/inside-rust/2024/11/01/compiler-team-reorg/)
