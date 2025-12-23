@@ -111,7 +111,7 @@
 
 ### Participated in issue
 
-- **[#2650](https://github.com/rust-lang/rustc-dev-guide/issues/2650)**:Recommended issue link uses non-existent labels
+- **[#2650](https://github.com/rust-lang/rustc-dev-guide/issues/2650)**: Recommended issue link uses non-existent labels
 - **[#359](https://github.com/rust-lang/rustc-dev-guide/issues/359)**: Transcribe the Compiler Lecture Rust analyzer guide
 
 ---
