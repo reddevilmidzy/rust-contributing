@@ -94,6 +94,7 @@
 
 ### PR
 
+- **[#2708](https://github.com/rust-lang/rustc-dev-guide/pull/2708)**: Update 'Working groups' to 'Working areas' in docs
 - **[#2707](https://github.com/rust-lang/rustc-dev-guide/pull/2707)**: Fix formatting of rustc_expand::module::parse_external_mod
 - **[#2706](https://github.com/rust-lang/rustc-dev-guide/pull/2706)**: Add Rustc Explore video link
 - **[#2704](https://github.com/rust-lang/rustc-dev-guide/pull/2704)**: Clarify serialization macros documentation
