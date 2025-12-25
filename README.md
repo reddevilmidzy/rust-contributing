@@ -80,6 +80,7 @@
 ### Code review
 > Add comments
 
+- **[#150362](https://github.com/rust-lang/rust/pull/150362)**: rustdoc: fix duplicate Re-exports sections
 - **[#149730](https://github.com/rust-lang/rust/pull/149730)**: lint: emit proper diagnostic for unsafe binders in improper_ctypes instead of ICE
 - **[#149667](https://github.com/rust-lang/rust/pull/149667)**: Fix ICE by rejecting const blocks in patterns during AST lowering (closes #148138)
 - **[#149496](https://github.com/rust-lang/rust/pull/149496)**: Fix #148889: Add label rib when visiting delegation body
