@@ -157,6 +157,14 @@
 
 ---
 
+## [triagebot](https://github.com/rust-lang/triagebot)
+
+### Issue
+
+- **[#2239](https://github.com/rust-lang/triagebot/issues/2239)**: Add comment when new directory is added to `tests/ui`
+
+---
+
 ## [.github](https://github.com/rust-lang/.github)
 
 ### PR
