@@ -7,6 +7,8 @@
 ### PR
 > Create Pull Requests
 
+- **[#150474](https://github.com/rust-lang/rust/pull/150474)**: Add subdirectory change detection to tidy
+- **[#150384](https://github.com/rust-lang/rust/pull/150384)**: Tidying up tests/ui/issues 16 tests [6/N]
 - **[#150216](https://github.com/rust-lang/rust/pull/150216)**: Tidying up tests/ui/issues 15 tests [6/N]
 - **[#150200](https://github.com/rust-lang/rust/pull/150200)**: Add title field to ice.md issue template
 - **[#150122](https://github.com/rust-lang/rust/pull/150122)**: Refactor function names of `rustc_ast_lowering`
